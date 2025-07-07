@@ -1,0 +1,8 @@
+transformers[torch]
+datasets
+flask
+protobuf
+tiktoken
+python-dotenv
+trl
+sentencepiece>=0.1.99
